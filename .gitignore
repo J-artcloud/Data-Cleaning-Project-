@@ -1,4 +1,5 @@
 when_to_use_which_plot.pdf
 matplotlib_tuto.ipynb
 .my_Analytic_class/
-figures/
+
+.vscode/
