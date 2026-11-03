@@ -1,0 +1,7 @@
+{"files.watcherExclude": {
+    "**/.my_Analytic_class/**": true
+},
+"search.exclude": {
+    "**/.my_Analytic_class": true
+}
+}
