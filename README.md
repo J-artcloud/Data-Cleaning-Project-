@@ -15,8 +15,10 @@ Link: https://www.kaggle.com/datasets/nudratabbas/multi-hospital-lab-results-mes
 -From plot 6, Collection was steady at about 55 to 70 results per month, with no empty months.The lowest months were March 2024 (15, a partial first month), February 2025 (44) and September 2024 (46)
 
 **Plots:** 
-figures\01_missing_types.png
-figures\03_distribution_vs_limit.png
+<img width="2053" height="1000" alt="01_missing_types" src="https://github.com/user-attachments/assets/86dcbc44-9a21-4d4f-8f8e-8f5898573276" />
+
+<img width="4454" height="1182" alt="03_distribution_vs_limit" src="https://github.com/user-attachments/assets/f0e0984b-f5fb-4f92-8d9f-564d5666c8cb" />
+
 
 
 **Limitations:** This dataset has a high probability of being synthetic hence the presence of so many placeholders and unrealistic values, hospital differences not tested statistically.
